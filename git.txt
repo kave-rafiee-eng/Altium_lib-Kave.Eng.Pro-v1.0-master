@@ -16,5 +16,5 @@ git config --global user.name "kave-rafiee-eng"
 
 git clone https://github.com/kave-rafiee-eng/Altium_lib-Kave.Eng.Pro-v1.0-master.git
 
--------------------------------ok
+-------------------------------send_ok
 
