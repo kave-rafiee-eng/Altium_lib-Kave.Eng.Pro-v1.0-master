@@ -1,0 +1,20 @@
+git init
+
+git add .
+git commit -m "first commit"
+
+git remote add origin https://github.com/kave-rafiee-eng/Altium_lib-Kave.Eng.Pro-v1.0-master.git
+git branch -M main
+
+git push -u origin main
+git pull
+
+
+git config --global user.email "kave.rafiee.eng.com"
+git config --global user.name "kave-rafiee-eng"
+
+
+git clone https://github.com/kave-rafiee-eng/Altium_lib-Kave.Eng.Pro-v1.0-master.git
+
+-------------------------------
+
